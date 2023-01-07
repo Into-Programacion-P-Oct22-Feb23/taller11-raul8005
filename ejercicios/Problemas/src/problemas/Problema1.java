@@ -14,6 +14,8 @@ public class Problema1 {
     /**
      * @param args the command line arguments
      */
+    
+    // SANTIAGO CHAVEZ Y RAUL MEDINA
     public static void main(String[] args) {
         int[][] informacion = {{1, 2, 3}, {10, 20, 30}, {100, 200, 300}};
         imprimirDatos(informacion);
